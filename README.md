@@ -19,7 +19,7 @@ Currently learning the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 ## 📚 My Journey
 - ✅ Completed: HTML5, CSS3, Flexbox, Grid
 - 🔄 Currently: Backend with Node.js & Express.js
-- 🎯 Goal: Full Stack MERN Developer by end of 2025
+- 🎯 Goal: Full Stack MERN Developer by end of 2026
 
 ## 📫 Connect With Me
 - GitHub: [@RahulKumarBaldia](https://github.com/RahulKumarBaldia)

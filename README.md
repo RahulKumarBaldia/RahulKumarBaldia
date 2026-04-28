@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Rahul Kumar! 👋
 
-<!--
-**RahulKumarBaldia/RahulKumarBaldia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a BCA student from India, on a mission to become a Full Stack Web Developer.
+Currently learning the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Node.js & Express.js (Backend Development)
+- MongoDB (Databases)
+- React.js (Frontend)
+- JavaScript (Deep dive)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Frontend:** HTML5 | CSS3 | JavaScript | React.js  
+**Backend:** Node.js | Express.js *(learning)*  
+**Database:** MongoDB *(learning)*  
+**Tools:** Git | GitHub | VS Code | Cursor
+
+## 📚 My Journey
+- ✅ Completed: HTML5, CSS3, Flexbox, Grid
+- 🔄 Currently: Backend with Node.js & Express.js
+- 🎯 Goal: Full Stack MERN Developer by end of 2025
+
+## 📫 Connect With Me
+- GitHub: [@RahulKumarBaldia](https://github.com/RahulKumarBaldia)
+
+## 💡 Fun Fact
+I believe — *"Your GitHub is your real degree."*  
+Building in public, one commit at a time! 🔥

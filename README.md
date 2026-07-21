@@ -24,12 +24,14 @@ Full Stack AI-powered mock interview platform
 - Company-specific questions, difficulty levels & Hinglish support
 - MongoDB session tracking + localStorage persistence
 - Built with MERN Stack + Groq API
+- Live: https://ai-mock-interviewer-rouge-nine.vercel.app/
 
 ### 🛒 Croma Clone
 Full Stack e-commerce platform with payment integration
 - Product browsing, cart management & secure checkout
 - Admin dashboard for product management
 - Built with MERN Stack + Razorpay payment gateway
+- Live: https://backend-practice-tan-six.vercel.app/
 
 ## 📈 My Journey
 - ✅ Completed: HTML5, CSS3, Flexbox, Grid, JavaScript

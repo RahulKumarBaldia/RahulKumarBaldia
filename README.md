@@ -1,4 +1,4 @@
-Hi there, I'm Rahul Kumar! 👋
+# Hi there, I'm Rahul Kumar! 👋
 
 ## 🚀 About Me
 I'm a BCA student from India, on a mission to become a Full Stack Web Developer. I build real-world, AI-powered full stack applications using the MERN Stack. Currently sharpening my skills by building projects and deploying them live! 🔥

@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/a3c46265-5a75-4111-80fe-df9d0066e869
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />

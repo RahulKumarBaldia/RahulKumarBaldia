@@ -14,8 +14,19 @@ I'm a BCA student from India, on a mission to become a Full Stack Web Developer.
 
 ## 🛠️ Tech Stack
 
+### Languages and Technologies
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Frameworks and Libraries
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb" />
+</p>
+
+### Tools and Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 **Frontend:** HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS

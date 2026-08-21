@@ -1,6 +1,10 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Rahul+Kumar!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=RahulKumarBaldia&color=00F7FF&style=flat)
 
 </div>
 
@@ -65,6 +69,12 @@ Full Stack e-commerce platform with payment integration
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=RahulKumarBaldia&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RahulKumarBaldia&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
 
